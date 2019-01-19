@@ -1,1 +1,0 @@
-web: fanapp app:app
